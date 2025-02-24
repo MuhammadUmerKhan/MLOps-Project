@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muhammadumerkhan/MLOps-Project/mlruns/0/eaea68d89980400393c5595bbd0a786b/artifacts
+end_time: 1740326590794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eaea68d89980400393c5595bbd0a786b
+run_name: invincible-goat-518
+run_uuid: eaea68d89980400393c5595bbd0a786b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740326579336
+status: 3
+tags: []
+user_id: muhammadumerkhan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muhammadumerkhan/MLOps-Project/mlruns/0/6457608ed85d47c5b32cfdfe3e341828/artifacts
+end_time: 1740302169755
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6457608ed85d47c5b32cfdfe3e341828
+run_name: powerful-fox-85
+run_uuid: 6457608ed85d47c5b32cfdfe3e341828
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740302167865
+status: 3
+tags: []
+user_id: muhammadumerkhan

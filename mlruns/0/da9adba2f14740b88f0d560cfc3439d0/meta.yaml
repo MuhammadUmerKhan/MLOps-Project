@@ -1,0 +1,15 @@
+artifact_uri: file:///home/muhammadumerkhan/MLOps-Project/mlruns/0/da9adba2f14740b88f0d560cfc3439d0/artifacts
+end_time: 1740302164944
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da9adba2f14740b88f0d560cfc3439d0
+run_name: calm-auk-199
+run_uuid: da9adba2f14740b88f0d560cfc3439d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740302151097
+status: 3
+tags: []
+user_id: muhammadumerkhan
